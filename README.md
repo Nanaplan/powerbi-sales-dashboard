@@ -63,4 +63,4 @@ This project was created to demonstrate my **data analysis and visualization ski
 
 ## 🔗 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/meifen-xie-118313237)  
+- (www.linkedin.com/in/meifen-xie-118313237)  
