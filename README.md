@@ -57,7 +57,7 @@ This project was created to demonstrate my **data analysis and visualization ski
 
 <img width="714" alt="Dashboard" src="https://github.com/user-attachments/assets/f5f644b6-919a-4506-8c5f-2976cea97276" />
 
-![Sales Dashboard](dashboard_screenshot.png)
+![Sales Dashboard](file:///C:/Users/MeXie/AppData/Local/Temp/Power%20BI%20Desktop/print-job-2b5466c3-0736-40cf-b67c-19faadfd1e59/Untitled.pdf)
 
 ---
 
