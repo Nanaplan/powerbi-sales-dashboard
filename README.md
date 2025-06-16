@@ -53,7 +53,7 @@ This project was created to demonstrate my **data analysis and visualization ski
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="714" alt="Dashboard" src="https://github.com/user-attachments/assets/f5f644b6-919a-4506-8c5f-2976cea97276" />
 
@@ -61,6 +61,6 @@ This project was created to demonstrate my **data analysis and visualization ski
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 - (www.linkedin.com/in/meifen-xie-118313237)  
